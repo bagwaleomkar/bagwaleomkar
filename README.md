@@ -172,39 +172,4 @@ Computer Engineering Student • Software Developer • Python & Web Enthusiast 
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagwaleomkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagwaleomkar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bagwaleomkar&theme=tokyonight&hide_border=true&border_radius=5" height="200" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagwaleomkar&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bagwaleomkar/bagwaleomkar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bagwaleomkar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%" />
-</div>
-
-###
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
