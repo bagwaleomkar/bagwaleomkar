@@ -11,6 +11,9 @@
   <a href="https://github.com/bagwaleomkar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
   </a>
+  <a href="https://omkarbagwale.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&color=00C7B7&logoColor=white&style=for-the-badge" height="25" alt="portfolio" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=bagwaleomkar&style=for-the-badge&color=blueviolet" height="25" alt="profile views" />
   <img src="https://img.shields.io/github/followers/bagwaleomkar?style=for-the-badge&color=blue" height="25" alt="followers" />
 </div>
@@ -159,7 +162,8 @@ I'm Omkar — a Computer Engineering student and aspiring Software Developer wit
 <p align="left">
 📧 Email: <strong>omkarbagwale07@gmail.com</strong><br/>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/omkar-bagwale-4ba44232b">linkedin.com/in/omkar-bagwale</a><br/>
-🐙 GitHub: <a href="https://github.com/bagwaleomkar">github.com/bagwaleomkar</a>
+🐙 GitHub: <a href="https://github.com/bagwaleomkar">github.com/bagwaleomkar</a><br/>
+🌐 Portfolio: <a href="https://omkarbagwale.netlify.app/">omkarbagwale.netlify.app</a>
 </p>
 
 ###
